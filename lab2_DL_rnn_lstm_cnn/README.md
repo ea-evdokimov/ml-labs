@@ -1,9 +1,9 @@
-* Part 1: warmup
+* Part 1: Warmup and using self written nn layers [links](https://github.com/ea-evdokimov/ml-labs/blob/master/lab2_DL_rnn_lstm_cnn/Lab2_DL_part1_warmup.ipynb)
 
-No colab link, the part 1 notebook has no code. Please, read it and refer to the `main_notebook.ipynb` from `week0_07`.
+* Part 2: Dealing with overfitting [link](https://github.com/ea-evdokimov/ml-labs/blob/master/lab2_DL_rnn_lstm_cnn/Lab2_DL_part2_overfitting.ipynb)
 
-* Part 2: Dealing with overfitting [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-mipt/blob/21f_basic/homeworks_basic/lab02_deep_learning/Lab2_DL_part2_overfitting.ipynb)
+* Part 3: Poetry generation using RNN and LSTM [link](https://github.com/ea-evdokimov/ml-labs/blob/master/lab2_DL_rnn_lstm_cnn/Lab2_DL_part3_poetry.ipynb)
 
-* Part 3: Poetry generation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-mipt/blob/21f_basic/homeworks_basic/lab02_deep_learning/Lab2_DL_part3_poetry.ipynb)
+* Part 5: Image classification(50 breeds of dogs), final accuracy: 0.82 [link](https://github.com/ea-evdokimov/ml-labs/blob/master/lab2_DL_rnn_lstm_cnn/Lab2_DL_part5_optional.ipynb)
 
-* Parts 4 and 5 (_optional_): Signal and/or image classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-mipt/blob/21f_basic/homeworks_basic/lab02_deep_learning/Lab2_DL_parts_4_and_5_optional.ipynb)
+* External: Used ensemble, lstm and cnn for fraud transaction classification [link](https://www.kaggle.com/eaevdokimov/interpret-models)
