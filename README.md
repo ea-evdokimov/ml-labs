@@ -5,4 +5,4 @@
 - Implemented nn layers, functions activation, batch norm and dropout layers. 
 - Implemented rnn and lstm(using pytorch) for poem generation as Shakespeare.
 - Built and trained cnn(on-base pretrained vgg16) to classify 50 breeds of dogs, was used big(8000 photos) dataset and final accuracy composes 0.82.
-- External: Used ensemble, lstm and cnn for fraud transaction classification [link](https://www.kaggle.com/eaevdokimov/interpret-models)
+- Used ensemble, lstm and cnn for fraud transaction classification [link](https://www.kaggle.com/eaevdokimov/interpret-models)
